@@ -6,18 +6,17 @@ This project analyzes the data from AirBnB of Paris. The goal is to first compar
 
 ## Dependencies
 
-For smooth running of the notebook, please install the following packages:
-
-pandas >= 0.23.4  
-numpy >=  1.15.4  
-gensim >= 3.8.0  
-nltk >= 3.4  
-sklearn >= 0.20.1  
-matplotlib >= 3.0.2  
-wordcloud >= 1.5.0  
-pickle >= 4.0  
-unicodedata  
-langdetect
+For smooth running of the notebook, please install the following packages:  
+* pandas >= 0.23.4  
+* numpy >=  1.15.4  
+* gensim >= 3.8.0  
+* nltk >= 3.4  
+* sklearn >= 0.20.1  
+* matplotlib >= 3.0.2  
+* wordcloud >= 1.5.0  
+* pickle >= 4.0  
+* unicodedata  
+* langdetect
 
 ## Files Descriptions
 
