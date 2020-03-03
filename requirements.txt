@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+pickle
+gensim
+langdetect
+nltk
+wordcloud
+unicodedata
+sklearn

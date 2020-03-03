@@ -18,6 +18,8 @@ For smooth running of the notebook, please install the following packages:
 * unicodedata  
 * langdetect
 
+The reviews file should be downloaded on http://insideairbnb.com/get-the-data.html : please select the 'Detailed Review Data for listings in Paris' of the section 'Paris, Île-de-France, France'.
+
 ## Files Descriptions
 
 The main file of this project is the enclosed jupyter notebook that was used for exploratory data analysis and results generation. There are two modes for the notebook execution : 
