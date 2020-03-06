@@ -15,6 +15,7 @@ For smooth running of the notebook, please install the following packages:
 * matplotlib >= 3.0.2  
 * wordcloud >= 1.5.0  
 * pickle >= 4.0  
+* tqdm >= 4.42.1
 * unicodedata  
 * langdetect
 
