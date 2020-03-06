@@ -19,7 +19,7 @@ For smooth running of the notebook, please install the following packages:
 * unicodedata  
 * langdetect
 
-The reviews file should be downloaded on http://insideairbnb.com/get-the-data.html : please select the 'Detailed Review Data for listings in Paris' of the section 'Paris, Île-de-France, France'.
+The reviews file should be downloaded [here](http://insideairbnb.com/get-the-data.html) : please select the 'Detailed Review Data for listings in Paris' of the section 'Paris, Île-de-France, France'.
 
 ## Files Descriptions
 
