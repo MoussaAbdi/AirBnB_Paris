@@ -31,7 +31,7 @@ Also, some files present in the data repository were pre-loaded and saved, and c
 
 Finally, some pickle files were saved and can be loaded to accelerate the notebook execution. 
 
-## Licensing, Authors, Acknowledgements
+## Acknowledgements
 
 Credit is given to Insideairbnb for the data. You can find the Licensing for the data at the link available [here](http://insideairbnb.com/get-the-data.html).      
 Also, credit is given to INSEE for the names file, and for the population and flats statistics inside Paris. The official statistics are available [here](https://www.insee.fr/fr/statistiques/1405599?geo=COM-75101)
