@@ -2,7 +2,10 @@
 
 ## Motivation
 
-This project analyzes the data from AirBnB flats of Paris. The goal is to first compare the relative characteristics of the different neighbourhoods using various metrics, and then to obtain wordclouds illustrating what to visit in each neighbourhood.
+This project analyzes the data from AirBnB flats of Paris. The goal is to first compare the relative characteristics of the different neighbourhoods using various metrics, and then to obtain wordclouds illustrating what to visit in each neighbourhood.  
+For more details, you can read my [post](https://medium.com/@moussa.abdi.75/20-colorful-boards-you-need-to-see-if-you-plan-a-trip-to-paris-88e7bc586da3) on Medium.
+
+
 
 ## Dependencies
 
